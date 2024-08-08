@@ -3,7 +3,7 @@
 ## Description
 285 Vietnamese native speakers participated in the recording with authentic accent. The text is manually proofread with high accuracy. It matches with mainstream Android and Apple system phones.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1196?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/1196?source=Github
 
 
 ## Format
